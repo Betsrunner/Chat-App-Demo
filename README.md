@@ -16,6 +16,12 @@
 
 [![Screenshot-1616903405.png](https://i.postimg.cc/MKQrPttd/Screenshot-1616903405.png)](https://postimg.cc/LnmThtc1)
 
+### 4. การเข้ามาใช้งานครั้งแรกจะไม่มีรายชื่อให้กดปุ่มค้นหาด้านขวาล่าง เพื่อค้นหารายชื่อผู้ติดต่อ
+
+[![Screenshot-1616903415.png](https://i.postimg.cc/vm3PgKHH/Screenshot-1616903415.png)](https://postimg.cc/bGS043tK)
+
+
+
 Installation
 
 ```
