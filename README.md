@@ -20,7 +20,9 @@
 
 [![Screenshot-1616903415.png](https://i.postimg.cc/vm3PgKHH/Screenshot-1616903415.png)](https://postimg.cc/bGS043tK)
 
+### 5. กดที่ปุ่ม Message เพื่อเข้าสู่ ห้องแชทส่วนตัว
 
+[![Screenshot-1616903434.png](https://i.postimg.cc/PxKPkm47/Screenshot-1616903434.png)](https://postimg.cc/0MM8YKhG)
 
 Installation
 
