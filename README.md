@@ -1,4 +1,4 @@
-# My Application
+# My Application Chat Demo
 
 ## Youtube : https://www.youtube.com/watch?v=tQ2znWu7fg4
 
