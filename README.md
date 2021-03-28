@@ -12,7 +12,7 @@
 
 [![Screenshot-1616903386.png](https://i.postimg.cc/fLz61Xkk/Screenshot-1616903386.png)](https://postimg.cc/zLQtgyC1)
 
-### 3. เมื่อลงชื่อเข้าใช้แล้ว จะเข้ามาอยู่ในหน้า รายชื่อผู้ติดต่อ
+3. เมื่อลงชื่อเข้าใช้แล้ว จะเข้ามาอยู่ในหน้า รายชื่อผู้ติดต่อ
 
 [![Screenshot-1616903405.png](https://i.postimg.cc/MKQrPttd/Screenshot-1616903405.png)](https://postimg.cc/LnmThtc1)
 
